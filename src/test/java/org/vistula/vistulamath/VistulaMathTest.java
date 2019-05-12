@@ -23,5 +23,5 @@ public class VistulaMathTest {
     public void shouldCorrectlyMultiply() {
         assert VistulaMath.multiply(5, 6) == 30;
     }
-
+    //
 }
